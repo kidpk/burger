@@ -17,3 +17,9 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+html {
+  text-align: center;
+  background-color: #e6b77a;
+  font-family: cursive;
+  font-size: large;
+}
