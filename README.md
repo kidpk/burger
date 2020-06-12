@@ -1,6 +1,6 @@
 ### Overview
 
-A burger logger created with MySQL, Node, Express, Handlebars and a homemade ORM (yum!).
+A burger logger created with MySQL, Node, Express, and Handlebars
 
 
 ![image](https://user-images.githubusercontent.com/59264835/84472571-654d8c00-ac55-11ea-8467-4917b83a7e21.png)
